@@ -9,3 +9,5 @@ STA-Net: Reconstruct Missing Temperature Data of Meteorological Stations Using a
 
 
 To request access to the dataset, please specify the reason for downloading, your affiliation, and a statement that the dataset will be used solely for personal scientific research and not for any commercial purposes. Please send your request to: wuli_qhu@163.com
+
+
